@@ -2,5 +2,5 @@
   "name": "Mkraftman Sony Blu-ray Media Control",
   "render_readme": true,
   "filename": "mkraftman-sony-bluray-media-control.js",
-  "content_in_root": false
+  "homeassistant": "2024.1.0"
 }
