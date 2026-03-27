@@ -151,7 +151,7 @@ class MkraftmanSonyBlurayMediaControl extends HTMLElement {
           <div class="bg-gradient" id="bgGrad"></div>
         </div>
         <div class="player">
-          <div class="name">Sony UBP-X1100ES</div>
+          <div class="name">Sony Blu-ray Living Room</div>
           <div class="controls">
             <button class="ctrl skip" id="prev">
               <ha-icon icon="mdi:skip-previous"></ha-icon>
