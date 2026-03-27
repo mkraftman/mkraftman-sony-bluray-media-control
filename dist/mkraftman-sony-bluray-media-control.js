@@ -142,9 +142,6 @@ class MkraftmanSonyBlurayMediaControl extends HTMLElement {
         .ctrl.pp ha-icon {
           --mdc-icon-size: 65px;
         }
-        .ctrl.skip ha-icon {
-          --mdc-icon-size: 32px;
-        }
       </style>
 
       <ha-card>
