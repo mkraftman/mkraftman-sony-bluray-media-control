@@ -157,7 +157,7 @@ class MkraftmanSonyBlurayMediaControl extends HTMLElement {
           <div class="name">Sony UBP-X1100ES</div>
           <div class="controls">
             <button class="ctrl skip" id="prev">
-              <ha-icon icon="mdi:skip-backward"></ha-icon>
+              <ha-icon icon="mdi:skip-previous"></ha-icon>
             </button>
             <button class="ctrl" id="rw">
               <ha-icon icon="mdi:rewind"></ha-icon>
@@ -169,7 +169,7 @@ class MkraftmanSonyBlurayMediaControl extends HTMLElement {
               <ha-icon icon="mdi:fast-forward"></ha-icon>
             </button>
             <button class="ctrl skip" id="next">
-              <ha-icon icon="mdi:skip-forward"></ha-icon>
+              <ha-icon icon="mdi:skip-next"></ha-icon>
             </button>
           </div>
         </div>
